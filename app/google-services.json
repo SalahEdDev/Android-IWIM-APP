@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011142151847",
+    "firebase_url": "https://finalversioniwimapp.firebaseio.com",
+    "project_id": "finalversioniwimapp",
+    "storage_bucket": "finalversioniwimapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011142151847:android:930a545e7ad4c227b81582",
+        "android_client_info": {
+          "package_name": "com.example.finalversionadroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011142151847-fqhm047snimh7gvn77jj2indp96eb2uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalversionadroidapp",
+            "certificate_hash": "8919a520bb0ec2dfe462b564774bf83b056f7717"
+          }
+        },
+        {
+          "client_id": "1011142151847-s0fj7j4ng4mqqc9f478v2hqkjbchefvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHDO9bT8m5Z_BfqvevkmL-lLqFszB11oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011142151847-s0fj7j4ng4mqqc9f478v2hqkjbchefvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
